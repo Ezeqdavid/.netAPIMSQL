@@ -1,4 +1,4 @@
-# API Gestion Empleados con ASP.Net y MSQL Server
+# API Gestion Empleados con ASP.Net, MSQL Server, Angular
 Tests realizados en Postman.
 
 ## Fucionalidades
